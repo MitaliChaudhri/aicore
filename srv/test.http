@@ -1,0 +1,7 @@
+###
+POST http://localhost:4004/odata/v4/catalog/getData
+Content-Type: application/json
+
+{
+    "data":"this i sdata"
+}
